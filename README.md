@@ -1,6 +1,6 @@
 👋 Hi, I’m @andrechynt\
 👀 I’m interested in Frontend Engineer\
-🌱 I’m currently learning Frontend Web and Android using Kotlin\
+🌱 I’m currently learning Frontend Web and Android using Kotlin
 
 <!---
 andrechynt/andrechynt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
