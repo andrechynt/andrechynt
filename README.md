@@ -1,5 +1,5 @@
-👋 Hi, I’m @andrechynt\
-👀 I’m interested in Software Engineering especially in Frontend Developer\
+👋 Hi, I’m @andrechynt<br>
+👀 I’m interested in Software Engineering especially in Frontend Developer<br>
 🌱 I’m currently learning Frontend Web and Android using Kotlin
 
 <!---
