@@ -2,7 +2,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=andrechynt&label=Profile%20views&color=0e75b6&style=flat" alt="toharifqi" /> </p>
 
-<p> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I am a student who likes technology and information. I not only learn through class but also self-study through the internet and bootcamp sites to improve my skills. I'm also interested in web development as well as mobile apps. </p>
+<p> I'm a student who likes technology and information. I not only learn through class but also self-study through the internet and bootcamp sites to improve my skills. I'm also interested in web development as well as mobile apps. </p>
 
 ### 🙋‍♂️ About Me
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 😁 Just called Andre.<br>
