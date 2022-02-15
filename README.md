@@ -1,7 +1,5 @@
 ## <p align="center"> 👋 Hi, I’m M Andre Cahyanto </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=andrechynt&label=Profile%20views&color=0e75b6&style=flat" alt="toharifqi" /> </p>
-
 <p> I'm a student who likes technology and information. I not only learn through class but also self-study through the internet and bootcamp sites to improve my skills. I'm also interested in web development as well as mobile apps. </p>
 
 ### 🙋‍♂️ About Me
