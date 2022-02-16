@@ -12,7 +12,7 @@
   &nbsp;&nbsp;&nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrechynt&include_all_commits=true&show_icons=true&theme=onedark&count_private=true"/>
   &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrechynt&layout=compact&theme=onedark&langs_count=8"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrechynt&layout=compact&theme=onedark"/>
 </p>
 
 ### 📌 Reach Me Here
