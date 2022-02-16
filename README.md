@@ -3,13 +3,12 @@
 <p> I'm a student who likes technology and information. I not only learn through class but also self-study through the internet and bootcamp sites to improve my skills. I'm also interested in web development as well as mobile apps. </p>
 
 ### 🙋‍♂️ About Me
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 😁 Just called Andre.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 👀 I’m interested in Software Engineering especially in Frontend Developer.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;- 💻 I’m currently learning Frontend Web and Android using Kotlin.
+- 😁 Just called Andre.<br>
+- 💻 I’m interested in Software Engineering especially in Frontend Developer.<br>
+- 🌱 I’m currently learning Frontend Web and Android using Kotlin.
 
 ### ⚒️ My GitHub Stats
 <p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrechynt&include_all_commits=true&show_icons=true&theme=onedark&count_private=true"/>
   &nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrechynt&layout=compact&theme=onedark&langs_count=8"/>
@@ -17,7 +16,6 @@
 
 ### 📌 Reach Me Here
 <p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/m.andrechy" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
