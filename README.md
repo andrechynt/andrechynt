@@ -9,6 +9,7 @@
 
 ### ⚒️ My GitHub Stats
 <p align="left">
+  &nbsp;&nbsp;&nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrechynt&include_all_commits=true&show_icons=true&theme=onedark&count_private=true"/>
   &nbsp;
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrechynt&layout=compact&theme=onedark&langs_count=8"/>
@@ -16,6 +17,7 @@
 
 ### 📌 Reach Me Here
 <p align="left">
+  &nbsp;&nbsp;&nbsp;
   <a href="https://instagram.com/m.andrechy" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
