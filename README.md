@@ -18,7 +18,7 @@
 ### 📌 Reach Me Here
 <p align="left">
   &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/andrechynt" style="text-decoration: none;">
+  <a href="https://instagram.com/andrchy_" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   &nbsp;
