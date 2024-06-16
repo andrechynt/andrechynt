@@ -7,14 +7,6 @@
 - 💻 I’m interested in Software Engineering especially in Frontend Developer.<br>
 - 🌱 I’m currently learning Frontend Web and Android using Kotlin.
 
-### ⚒️ My GitHub Stats
-<p align="left">
-  &nbsp;&nbsp;&nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrechynt&include_all_commits=true&show_icons=true&theme=onedark&count_private=true"/>
-  &nbsp;
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrechynt&layout=compact&theme=onedark"/>
-</p>
-
 ### 📌 Reach Me Here
 <p align="left">
   &nbsp;&nbsp;&nbsp;
