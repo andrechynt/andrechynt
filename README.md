@@ -4,7 +4,7 @@
 
 ### 🙋‍♂️ About Me
 - 😁 Just called Andre.<br>
-- 💻 I’m interested in Software Engineering especially in Frontend Developer.<br>
+- 💻 I’m interested in Software Engineering.<br>
 - 🌱 I’m currently learning Frontend Web and Android using Kotlin.
 
 ### 📌 Reach Me Here
